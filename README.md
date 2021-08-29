@@ -1,6 +1,4 @@
-# Notes
-
-(Incompleto)
+# Notes (Incompleto)
 
 <img src="./demo/ListaNotas.jpg" width="300">
 
